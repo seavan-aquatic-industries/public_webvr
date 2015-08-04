@@ -1,0 +1,25 @@
+{
+  "short_name": "Sechelt",
+  "name": "Sechelt",
+  "icons": [
+    {
+      "src": "images/sechelt-256.png",
+      "sizes": "256x256",
+      "type": "image/png",
+      "density": "1.0"
+    },
+    {
+      "src": "images/sechelt-630.png",
+      "sizes": "630x630",
+      "type": "image/png",
+      "density": "2.0"
+    }
+  ],
+  "start_url": "index.html",
+  "display": "stereo",
+  "orientation": "portrait",
+  "theme-color": "#fee7c5",
+
+  "tagline": "Fly Through",
+  "description": "A visualization of British Columbia's coast built with three.js and Cinema 4D."
+}
